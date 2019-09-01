@@ -24,7 +24,7 @@ def monopoly_with_third_tier
     :railroads => {
       :pieces => 4, 
       :rent_in_dollars => {
-        :one_piece_owned => 25, :milk => '52', :ciabatta => "bread", :steak => 'riblets'
+        :one_piece_owned => 25, :two_pieces_owned => 50, :ciabatta => "bread", :steak => 'riblets'
       },
       :names => {
         :a => 1, :steak => 'sauce', :is => "delicious", :thanks => 'mom'
