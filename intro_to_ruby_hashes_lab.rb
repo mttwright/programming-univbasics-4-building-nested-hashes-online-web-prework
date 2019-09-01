@@ -26,7 +26,9 @@ def monopoly_with_third_tier
       :rent_in_dollars => {
         :ham => "47", :milk => '52', :ciabatta => "bread", :steak => 'riblets'
       },
-      :names => {}
+      :names => {
+        :a => 1, :steak => 'sauce', :is => "delicious", :thanks => 'mom'
+      }
     }
   }
   
